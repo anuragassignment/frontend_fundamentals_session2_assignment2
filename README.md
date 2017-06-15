@@ -1,0 +1,2 @@
+# frontend_fundamentals_session2_assignment2
+frontend_fundamentals_session2_assignment2
